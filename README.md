@@ -16,3 +16,8 @@ Scripts that will be added soon:
 * Simple JSON responce parsing.
 
 If you need some specific scripts, would gladly help.
+
+
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/miasynetska/google_scripts/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
